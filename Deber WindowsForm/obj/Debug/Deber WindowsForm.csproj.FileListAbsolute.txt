@@ -1,0 +1,10 @@
+C:\Users\darwin\source\repos\Deber WindowsForm\bin\Debug\Deber WindowsForm.exe.config
+C:\Users\darwin\source\repos\Deber WindowsForm\bin\Debug\Deber WindowsForm.exe
+C:\Users\darwin\source\repos\Deber WindowsForm\bin\Debug\Deber WindowsForm.pdb
+C:\Users\darwin\source\repos\Deber WindowsForm\obj\Debug\Deber WindowsForm.csproj.AssemblyReference.cache
+C:\Users\darwin\source\repos\Deber WindowsForm\obj\Debug\Deber_WindowsForm.Form1.resources
+C:\Users\darwin\source\repos\Deber WindowsForm\obj\Debug\Deber_WindowsForm.Properties.Resources.resources
+C:\Users\darwin\source\repos\Deber WindowsForm\obj\Debug\Deber WindowsForm.csproj.GenerateResource.cache
+C:\Users\darwin\source\repos\Deber WindowsForm\obj\Debug\Deber WindowsForm.csproj.CoreCompileInputs.cache
+C:\Users\darwin\source\repos\Deber WindowsForm\obj\Debug\Deber WindowsForm.exe
+C:\Users\darwin\source\repos\Deber WindowsForm\obj\Debug\Deber WindowsForm.pdb
